@@ -1,11 +1,12 @@
 # ORIC_box
 
 
-**You will get more information about this and other retro/vintage computers projects in my web page: http://magoric.eu.org**
+**You will get more information about this and other retro/vintage computers projects in my web page: 
+http://magoric.eu.org**
 
-**ORIC-1 BOX**
+## **ORIC-1 BOX**
 
-**The license is Creative Commons (CC) BY-SA-NC** [Where 'BY': Always mention the author, 'NC': Commercial is forbidden, 'ND': No derivatives allowed]
+**The license is Creative Commons (CC) BY-SA-NC-ND** [Where 'BY': Always mention the author, 'SA': Always share with the same license, 'NC': Commercial use is forbidden, 'ND': No derivatives allowed]
 
 This is a PDF file of the ORIC-1 box cover.
 
