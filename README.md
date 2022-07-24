@@ -1,9 +1,9 @@
 # ORIC_box
 
 
-[**You will get more information about this and other retro/vintage computers in my web page:**] (http://magoric.eu.org)
+**You will get more information about this and other retro/vintage computers projects in my web page: http://magoric.eu.org**
 
-##ORIC-1 box
+**ORIC-1 BOX**
 
 **The license is Creative Commons (CC) BY-SA-NC** [Where 'BY': Always mention the author, 'NC': Commercial is forbidden, 'ND': No derivatives allowed]
 
